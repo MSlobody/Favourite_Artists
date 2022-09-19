@@ -1,4 +1,4 @@
-# Artists_SQL
+# Favourite_Artists
 
 ## Table of Contents
 * [Project Overview](#Project-Overview)
