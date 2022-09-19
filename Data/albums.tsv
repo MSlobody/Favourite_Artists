@@ -1,0 +1,201 @@
+	id	artist_id	album_name	total_tracks	label	release_date	popularity
+0	1	1	Twelve Carat Toothache (Deluxe)	16	Mercury Records/Republic Records	2022-06-07	71
+1	2	1	Twelve Carat Toothache (Deluxe)	16	Mercury Records/Republic Records	2022-06-07	48
+2	3	1	Twelve Carat Toothache	14	Mercury Records/Republic Records	2022-06-03	82
+3	4	1	Twelve Carat Toothache	14	Mercury Records/Republic Records	2022-06-03	58
+4	5	1	Hollywood's Bleeding	17	Republic Records	2019-09-06	81
+5	6	1	Hollywood's Bleeding	17	Republic Records	2019-09-06	50
+6	7	1	beerbongs & bentleys	18	Republic Records	2018-04-27	79
+7	8	1	beerbongs & bentleys	18	Republic Records	2018-04-27	50
+8	9	1	Stoney (Complete Edition)	34	Universal Records	2016-12-09	54
+9	10	1	Stoney (Deluxe)	18	Universal Records	2016-12-09	78
+10	11	1	Stoney (Deluxe)	18	Universal Records	2016-12-09	47
+11	12	1	Stoney	14	Universal Records	2016-12-09	44
+12	13	1	Stoney	14	Universal Records	2016-12-09	25
+13	14	2	Dawn FM (Alternate World)	24	XO / Republic Records	2022-01-07	56
+14	15	2	Dawn FM (Alternate World)	20	XO / Republic Records	2022-01-07	54
+15	16	2	Dawn FM (Alternate World)	19	XO / Republic Records	2022-01-07	55
+16	17	2	Dawn FM (Alternate World)	24	XO / Republic Records	2022-01-07	45
+17	18	2	Dawn FM	16	Universal Republic Records	2022-01-07	48
+18	19	2	Dawn FM	16	XO / Republic Records	2022-01-06	80
+19	20	2	After Hours (Deluxe)	17	Republic Records	2020-04-03	59
+20	21	2	After Hours (Deluxe)	17	Republic Records	2020-04-03	33
+21	22	2	After Hours (Deluxe)	18	XO / Republic Records	2020-03-20	62
+22	23	2	After Hours (Deluxe)	18	XO / Republic Records	2020-03-20	66
+23	24	2	After Hours	14	Republic Records	2020-03-20	84
+24	25	2	After Hours	14	Republic Records	2020-03-20	47
+25	26	2	My Dear Melancholy,	7	Universal Republic Records	2018-03-30	81
+26	27	2	My Dear Melancholy,	7	Universal Republic Records	2018-03-30	39
+27	28	2	Starboy	18	Universal Republic Records	2016-11-25	83
+28	29	2	Starboy	18	Universal Republic Records	2016-11-24	76
+29	30	2	Beauty Behind The Madness	17	Universal Republic Records	2016-03-16	20
+30	31	2	Beauty Behind The Madness	14	Universal Republic Records	2015-08-28	80
+31	32	2	Beauty Behind The Madness	14	Universal Republic Records	2015-08-28	42
+32	33	2	Beauty Behind The Madness	14	Universal Republic Records	2015-08-28	3
+33	34	2	Kiss Land (Deluxe)	12	Universal Republic Records	2013-09-10	51
+34	35	2	Kiss Land	10	CP Records	2013-09-10	57
+35	36	2	Kiss Land (Deluxe MENA Version)	12	Universal Republic Records	2013-09-09	23
+36	37	2	Kiss Land	10	CP Records	2013-09-09	24
+37	38	2	Kiss Land	10	Universal Republic Records	2013-01-01	49
+38	39	2	Kiss Land	10	Universal Republic Records	2013-01-01	7
+39	40	2	Trilogy	30	Universal Republic Records	2012-11-13	52
+40	41	2	Trilogy	30	CP Records	2012-11-13	73
+41	42	2	Trilogy	30	Universal Republic Records	2012-11-13	33
+42	43	2	Echoes Of Silence (Original)	9	Universal Republic Records	2011-12-21	46
+43	44	2	Thursday (Original)	9	Universal Republic Records	2011-08-18	46
+44	45	2	House Of Balloons (Original)	9	Universal Republic Records	2011-03-21	60
+45	46	3	A Kid Named Cudi	16	Republic Records	2022-07-15	60
+46	47	3	The Boy Who Flew To The Moon (Vol. 1)	18	Universal Records	2022-07-08	62
+47	48	3	Man On The Moon III: The Chosen	18	Republic Records	2020-12-11	68
+48	49	3	Man On The Moon III: The Chosen	18	Republic Records	2020-12-11	46
+49	50	3	KIDS SEE GHOSTS	7	Getting Out Our Dreams, Inc./Def Jam Recordings	2018-06-12	21
+50	51	3	KIDS SEE GHOSTS	7	Getting Out Our Dreams, Inc./Def Jam Recordings	2018-06-08	65
+51	52	3	Passion, Pain & Demon Slayin'	19	Wicked Awesome/Kid Cudi	2016-12-16	59
+52	53	3	Passion, Pain & Demon Slayin'	19	Wicked Awesome/Kid Cudi	2016-12-16	23
+53	54	3	Speedin' Bullet 2 Heaven	26	Wicked Awesome/Kid Cudi	2015-12-04	46
+54	55	3	KiD CuDi presents SATELLITE FLIGHT: The journey to Mother Moon	10	Kid Cudi/Universal Records	2014-02-25	41
+55	56	3	KiD CuDi presents SATELLITE FLIGHT: The journey to Mother Moon	10	Kid Cudi/Universal Records	2014-01-01	0
+56	57	3	KiD CuDi presents SATELLITE FLIGHT: The journey to Mother Moon	10	Kid Cudi/Universal Records	2014-01-01	34
+57	58	3	KiD CuDi presents SATELLITE FLIGHT: The journey to Mother Moon	10	Kid Cudi/Universal Records	2014-01-01	3
+58	59	3	KiD CuDi presents SATELLITE FLIGHT: The journey to Mother Moon	10	Kid Cudi/Universal Records	2014-01-01	24
+59	60	3	Indicud	18	Kid Cudi/Universal Records	2013-04-12	59
+60	61	3	Indicud	18	Kid Cudi/Universal Records	2013-01-01	22
+61	62	3	Man On The Moon II: The Legend Of Mr. Rager	17	Kid Cudi/Universal Records	2010-11-09	68
+62	63	3	Man On The Moon II: The Legend Of Mr. Rager (Explicit Version)	18	Kid Cudi/Universal Records	2010-01-01	22
+63	64	3	Man On The Moon II: The Legend Of Mr. Rager (Explicit Version)	17	Kid Cudi/Universal Records	2010-01-01	37
+64	65	3	Man On The Moon II: The Legend Of Mr. Rager (Edited Version)	17	Kid Cudi/Universal Records	2010-01-01	2
+65	66	3	Man On The Moon II: The Legend Of Mr. Rager	17	Kid Cudi/Universal Records	2010-01-01	59
+66	67	3	Man On The Moon: The End Of Day	15	Kid Cudi/Universal Records	2009-09-15	65
+67	68	3	Man On The Moon: The End Of Day	19	Kid Cudi/Universal Records	2009-01-01	48
+68	69	3	Man On The Moon: The End Of Day (Deluxe)	18	Kid Cudi/Universal Records	2009-01-01	68
+69	70	3	Man On The Moon: The End Of Day	15	Kid Cudi/Universal Records	2009-01-01	0
+70	71	3	Man On The Moon: The End Of Day (Deluxe)	18	Kid Cudi/Universal Records	2009-01-01	38
+71	72	3	Man On The Moon: The End Of Day	18	Kid Cudi/Universal Records	2009-01-01	0
+72	73	3	Man On The Moon: The End Of Day	15	Kid Cudi/Universal Records	2009-01-01	27
+73	74	3	Man On The Moon: The End Of Day (Int'l Version)	16	Kid Cudi/Universal Records	2009-01-01	66
+74	75	4	Nicole	12	88rising Music	2022-08-12	68
+75	76	4	Nicole	12	88rising Music	2022-08-11	54
+76	77	4	Shang-Chi and The Legend of The Ten Rings: The Album	18	MARVEL/Hollywood Records, Inc./Interscope Records	2021-09-03	64
+77	78	4	MOONCHILD	10	88rising Music	2020-09-10	54
+78	79	4	MOONCHILD	10	88rising Music	2020-09-09	42
+79	80	4	Zephyr	8	88rising Music	2018-05-23	55
+80	81	4	Zephyr	8	88rising Music	2018-05-23	14
+81	82	5	Donda (Deluxe)	32	Getting Out Our Dreams II, LLC / Def Jam Recordings	2021-11-14	61
+82	83	5	Donda	27	Rock The World/IDJ/Kanye LP7	2021-08-29	77
+83	84	5	JESUS IS KING	11	Getting Out Our Dreams II / Def Jam Recordings	2019-10-25	65
+84	85	5	KIDS SEE GHOSTS	7	Getting Out Our Dreams, Inc./Def Jam Recordings	2018-06-12	21
+85	86	5	KIDS SEE GHOSTS	7	Getting Out Our Dreams, Inc./Def Jam Recordings	2018-06-08	65
+86	87	5	ye	7	Getting Out Our Dreams, Inc./Def Jam Recordings	2018-06-01	72
+87	88	5	The Life Of Pablo	20	Rock The World/IDJ/Kanye LP7	2016-06-10	76
+88	89	5	The Life Of Pablo	19	Rock The World/IDJ/Kanye LP7	2016-04-05	37
+89	90	5	Yeezus	10	Rock The World/IDJ/Kanye/LP6	2013-06-18	75
+90	91	5	Watch The Throne (Deluxe)	16	Roc Nation/RocAFella/IDJ	2011-08-08	74
+91	92	5	Watch The Throne (Deluxe)	16	Roc Nation / Jay-Z	2011-08-08	27
+92	93	5	Watch The Throne (Deluxe)	16	Roc Nation / Jay-Z	2011-08-08	38
+93	94	5	Watch The Throne (Deluxe)	16	Roc Nation/RocAFella/IDJ	2011-08-08	24
+94	95	5	Watch The Throne	12	Roc Nation/RocAFella/IDJ	2011-08-08	50
+95	96	5	Watch The Throne	12	Roc Nation / Jay-Z	2011-08-08	44
+96	97	5	Watch The Throne	12	Roc Nation/RocAFella/IDJ	2011-08-08	15
+97	98	5	Watch The Throne	12	Roc Nation / Jay-Z	2011-08-08	16
+98	99	5	My Beautiful Dark Twisted Fantasy	13	Roc-A-Fella	2010-11-22	77
+99	100	5	My Beautiful Dark Twisted Fantasy (Edited Version)	14	Roc-A-Fella	2010-01-01	20
+100	101	5	My Beautiful Dark Twisted Fantasy	13	Roc-A-Fella	2010-01-01	44
+101	102	5	808s & Heartbreak	12	Roc-A-Fella	2008-11-24	73
+102	103	5	808s & Heartbreak	12	Roc-A-Fella	2008-11-24	54
+103	104	5	Graduation	14	Roc-A-Fella	2007-09-11	80
+104	105	5	Graduation	14	Roc-A-Fella	2007-09-11	55
+105	106	5	Late Orchestration	13	Roc-A-Fella	2006-01-01	34
+106	107	5	Late Registration	21	Roc-A-Fella	2005-08-30	71
+107	108	5	Late Registration	21	Roc-A-Fella	2005-08-30	43
+108	109	5	Late Registration	22	Roc-A-Fella	2005-01-01	57
+109	110	5	The College Dropout	21	Roc-A-Fella	2004-02-10	74
+110	111	5	The College Dropout	21	Roc-A-Fella	2004-02-10	41
+111	112	6	Future Nostalgia (The Moonlight Edition)	19	Urban	2021-02-12	43
+112	113	6	Future Nostalgia (The Moonlight Edition)	19	Warner Records	2021-02-11	75
+113	114	6	Future Nostalgia (The Moonlight Edition)	19	Warner Records	2021-02-11	26
+114	115	6	Club Future Nostalgia (DJ MIX)	17	Urban	2020-08-28	26
+115	116	6	Club Future Nostalgia (DJ Mix)	17	Warner Records	2020-08-28	51
+116	117	6	Future Nostalgia	13	Warner Records	2020-03-27	73
+117	118	6	Future Nostalgia	13	Urban	2020-03-27	61
+118	119	6	Future Nostalgia	11	Warner Records	2020-03-27	78
+119	120	6	Dua Lipa (Complete Edition)	25	Warner Records	2018-10-19	64
+120	121	6	Dua Lipa	12	Warner Records	2017-06-02	42
+121	122	6	Dua Lipa	12	Warner Records	2017-06-02	19
+122	123	6	Dua Lipa (Complete Edition)	25	Urban	2017-06-02	54
+123	124	6	Dua Lipa (Deluxe)	17	Warner Records	2017-06-02	73
+124	125	6	Dua Lipa (Deluxe)	17	Warner Records	2017-06-02	54
+125	126	6	Dua Lipa (Deluxe)	17	Warner Records	2017-06-02	23
+126	127	6	Dua Lipa (Complete Edition)	25	Warner Records	2015	50
+127	128	7	Blink Once	14	Arkells Music ROW	2021-09-22	43
+128	129	7	Blink Once	14	Arkells Music ROW	2021-09-22	12
+129	130	7	Campfire Chords	20	Arkells Music ROW	2020-10-29	28
+130	131	7	Campfire Chords	19	Arkells Music ROW	2020-08-20	36
+131	132	7	Rally Cry	10	Arkells Music (2017) Inc	2018-10-19	37
+132	133	7	Rally Cry	10	Last Gang	2018-10-19	27
+133	134	7	Morning Report (Deluxe)	16	Universal Music Canada	2017-06-16	36
+134	135	7	Morning Report (Deluxe Edition)	16	Last Gang	2017-06-16	25
+135	136	7	Morning Report	12	Universal Music Canada	2016-08-05	35
+136	137	7	Morning Report	12	Last Gang	2016-08-05	32
+137	138	7	High Noon	13	Dine Alone Records	2014-08-08	12
+138	139	7	High Noon	11	Universal Music Canada	2014-08-05	42
+139	140	7	High Noon	11	Last Gang	2014-08-05	13
+140	141	7	High Noon	11	Dine Alone Music Inc.	2014-08-05	30
+141	142	7	Michigan Left	10	Last Gang	2011-10-18	9
+142	143	7	Michigan Left	10	Arkells Music Inc.	2011-10-18	17
+143	144	7	Michigan Left	10	Universal Music Canada	2011-01-01	32
+144	145	7	Michigan Left	10	Heavy Plaid	2011	22
+145	146	7	Jackson Square	12	Dine Alone Records	2008-10-28	5
+146	147	7	Jackson Square	12	Last Gang	2008-10-28	0
+147	148	7	Jackson Square	12	Dine Alone Music Inc.	2008-01-01	34
+148	149	8	Live at the Royal Albert Hall	20	Domino Recording Co	2020-12-04	56
+149	150	8	Tranquility Base Hotel & Casino	11	Domino Recording Co	2018-05-11	58
+150	151	8	Tranquility Base Hotel & Casino	11	Domino Recording Co	2018-05-10	59
+151	152	8	Tranquility Base Hotel & Casino	11	Domino Recording Co	2018-05-10	40
+152	153	8	AM	12	Domino Recording Co	2013-09-09	84
+153	154	8	AM	12	EMI Recorded Music Australia Pty Ltd	2013-01-01	61
+154	155	8	Suck It and See	12	Domino Recording Co	2011-06-07	52
+155	156	8	Suck It and See	12	Domino Recording Co	2011-06-06	63
+156	157	8	Humbug	10	Domino Recording Co	2009-08-25	53
+157	158	8	Humbug	10	Domino Recording Co	2009-08-20	65
+158	159	8	Favourite Worst Nightmare (Standard Version)	12	Domino/Warner Records	2007-04-24	71
+159	160	8	Favourite Worst Nightmare	12	Domino Recording Co	2007-04-22	77
+160	161	8	Whatever People Say I Am, That's What I'm Not	13	Domino Recording Co	2006-02-21	60
+161	162	8	Whatever People Say I Am, That's What I'm Not	13	Domino Recording Co	2006-01-29	72
+162	163	9	= (Tour Edition)	24	Atlantic Records UK	2022-05-27	48
+163	164	9	= (Tour Edition)	24	Atlantic Records UK	2022-05-27	40
+164	165	9	= (Tour Edition)	24	Atlantic Records UK	2022-05-27	43
+165	166	9	= (Tour Edition)	24	Atlantic Records UK	2022-05-27	42
+166	167	9	= (Tour Edition)	24	Atlantic Records UK	2022-05-27	40
+167	168	9	= (Tour Edition)	24	Atlantic Records UK	2022-05-27	43
+168	169	9	= (Tour Edition)	24	Atlantic Records UK	2022-05-27	32
+169	170	9	= (Tour Edition)	24	Atlantic Records UK	2022-05-27	47
+170	171	9	= (Tour Edition)	24	Atlantic Records UK	2022-05-27	21
+171	172	9	= (Tour Edition)	24	Atlantic Records UK	2022-05-27	47
+172	173	9	= (Tour Edition)	24	Atlantic Records UK	2022-05-27	29
+173	174	9	= (Tour Edition)	23	Atlantic Records UK	2022-05-27	60
+174	175	9	2step (The Remixes)	13	Atlantic Records UK	2022-05-26	46
+175	176	9	2step (The Remixes)	14	Atlantic Records UK	2021-10-29	58
+176	177	9	=	14	Atlantic Records UK	2021-10-29	82
+177	178	9	No.6 Collaborations Project	15	Atlantic Records UK	2019-07-12	72
+178	179	9	No.6 Collaborations Project	15	Atlantic Records UK	2019-07-12	46
+179	180	9	÷ (Deluxe)	16	Atlantic Records UK	2017-03-03	82
+180	181	9	x (Wembley Edition)	23	Atlantic Records UK	2015-11-13	55
+181	182	9	5	32	Gingerbread Man Records	2014-06-23	51
+182	183	9	x (Deluxe Edition)	16	Atlantic Records UK	2014-06-21	77
+183	184	9	x (Wembley Edition)	24	Atlantic Records UK	2013	40
+184	185	9	x (Wembley Edition)	24	Atlantic Records UK	2013	46
+185	186	9	x (Wembley Edition)	24	Atlantic Records UK	2013	59
+186	187	9	Live at the Bedford	6	Atlantic Records UK	2011-12-09	31
+187	188	9	Loose Change	8	Atlantic Records UK	2011-12-09	42
+188	189	9	+	18	WM UK	2011-09-09	28
+189	190	9	+	16	Atlantic Records UK	2011-09-09	69
+190	191	9	+	16	Atlantic Records UK	2011-09-09	48
+191	192	9	+	12	Atlantic Records UK	2011-09-09	8
+192	193	9	+	12	Atlantic Records UK	2011-09-09	61
+193	194	9	No.5 Collaborations Project	8	Atlantic Records UK	2011-09-09	37
+194	195	10	Back of My Mind	21	MBK Entertainment/RCA Records	2021-06-18	60
+195	196	10	Back of My Mind	21	MBK Entertainment/RCA Records	2021-06-18	39
+196	197	10	I Used To Know Her	19	MBK Entertainment/RCA Records	2019-08-30	64
+197	198	10	H.E.R.	21	MBK Entertainment/RCA Records	2017-10-20	64
+198	199	10	H.E.R. Volume 2	8	MBK Entertainment/RCA Records	2017-06-16	47
+199	200	10	H.E.R. Volume 1	7	MBK Entertainment/RCA Records	2016-09-09	46

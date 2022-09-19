@@ -1,0 +1,106 @@
+	id	artist_id	event_name	venue_name	venue_country	venue_country_code	venue_city	venue_postalCode	venue_address	venue_location_latitude	venue_location_longitude	event_DateTime
+0	1	1	Post Malone: Twelve Carat Tour	T-Mobile Arena	United States Of America	US	Las Vegas	89109	3780 Las Vegas Blvd.	36.124401	-115.145103	2022-11-12T04:00:00Z
+1	2	1	Post Malone: Twelve Carat Tour	Toyota Center - TX	United States Of America	US	Houston	77002	1510 Polk St	29.759399	-95.362999	2022-10-26T01:00:00Z
+2	3	1	Post Malone: Twelve Carat Tour	Wells Fargo Center-PA	United States Of America	US	Philadelphia	19148	3601 South Broad St.	39.910999	-75.153397	2022-10-07T00:00:00Z
+3	4	1	Post Malone: Twelve Carat Tour	Nationwide Arena	United States Of America	US	Columbus	43215	200 West Nationwide Blvd.	39.96939661	-83.00636203	2022-09-19T00:00:00Z
+4	5	1	Post Malone: Twelve Carat Tour	Rocket Mortgage FieldHouse	United States Of America	US	Cleveland	44115	One Center Court	41.492401	-81.671204	2022-09-28T00:00:00Z
+5	6	1	Post Malone: Twelve Carat Tour	Little Caesars Arena	United States Of America	US	Detroit	48201	2645 Woodward	42.341089	-83.055434	2022-10-02T00:00:00Z
+6	7	1	Post Malone: Twelve Carat Tour	Bridgestone Arena	United States Of America	US	Nashville	37203	501 Broadway	36.159949	-86.77857	2022-10-17T01:00:00Z
+7	8	1	Post Malone: Twelve Carat Tour	Fiserv Forum	United States Of America	US	Milwaukee	53203	1111 Vel R. Phillips Ave	43.04228	-87.916896	2022-09-16T01:00:00Z
+8	9	1	Post Malone: Twelve Carat Tour	TD Garden	United States Of America	US	Boston	02114	100 Legends Way	42.365841	-71.060724	2022-09-25T00:00:00Z
+9	10	1	Post Malone: Twelve Carat Tour	BOK Center	United States Of America	US	Tulsa	74103	200 S. Denver 	36.15287358	-95.99613726	2022-10-29T01:00:00Z
+10	11	1	Post Malone: Twelve Carat Tour	TD Garden	United States Of America	US	Boston	02114	100 Legends Way	42.365841	-71.060724	2022-09-24T00:00:00Z
+11	12	1	Post Malone: Twelve Carat Tour	Ball Arena	United States Of America	US	Denver	80204	1000 Chopper Circle	39.74724	-105.010166	2022-10-31T02:00:00Z
+12	13	1	Post Malone: Twelve Carat Tour	Enterprise Center	United States Of America	US	St Louis	63103	1401 Clark Ave	38.626432	-90.202617	2022-09-18T01:00:00Z
+13	14	1	Post Malone: Twelve Carat Tour	Madison Square Garden	United States Of America	US	New York	10001	7th Ave & 32nd Street	40.7497062	-73.9916006	2022-10-13T00:00:00Z
+14	15	1	Post Malone: Twelve Carat Tour	American Airlines Center	United States Of America	US	Dallas	75219	2500 Victory Avenue	32.79067196	-96.81081803	2022-10-22T01:00:00Z
+15	16	1	Post Malone: Twelve Carat Tour	Capital One Arena	United States Of America	US	Washington	20004	601 F Street NW	38.897412	-77.020029	2022-10-05T00:00:00Z
+16	17	1	Post Malone: Twelve Carat Tour	Kia Forum	United States Of America	US	Inglewood	90305	3900 W Manchester Blvd.	33.9583	-118.341868	2022-11-11T04:00:00Z
+17	18	1	Post Malone: Twelve Carat Tour	PPG Paints Arena	United States Of America	US	Pittsburgh	15219	1001 Fifth Avenue	40.4388401	-79.9908551	2022-09-29T00:00:00Z
+18	19	1	Post Malone: Twelve Carat Tour	UBS Arena	United States Of America	US	Belmont Park - Long Island	11003	2400 Hempstead Turnpike	40.71187893	-73.72613877	2022-10-10T00:00:00Z
+19	20	1	Post Malone: Twelve Carat Tour	Colonial Life Arena	United States Of America	US	Columbia	29208	801 Lincoln St.	33.9942619	-81.036104	2022-10-16T00:00:00Z
+20	21	1	Post Malone: Twelve Carat Tour	Crypto.com Arena	United States Of America	US	Los Angeles	90015	1111 S. Figueroa St	34.043003	-118.267253	2022-11-17T04:00:00Z
+21	22	1	Post Malone: Twelve Carat Tour	Moody Center ATX	United States Of America	US	Austin	78712	2001 Robert Dedman Drive	30.280735	-97.730837	2022-10-23T01:00:00Z
+22	23	1	Post Malone: Twelve Carat Tour	Gainbridge Fieldhouse	United States Of America	US	Indianapolis	46204	125 S. Pennsylvania St.	39.764064	-86.155507	2022-10-03T00:00:00Z
+23	24	1	Post Malone: Twelve Carat Tour	Climate Pledge Arena	United States Of America	US	Seattle	98109	334 1st Ave N	47.6221261	-122.35401604	2022-11-06T03:00:00Z
+24	25	1	Post Malone: Twelve Carat Tour	Prudential Center	United States Of America	US	Newark	07102	25 Lafayette Street	40.73340555	-74.17121214	2022-10-08T00:00:00Z
+25	26	1	Post Malone: Twelve Carat Tour	State Farm Arena	United States Of America	US	Atlanta	30303	One State Farm Drive	33.757796	-84.394569	2022-10-19T00:00:00Z
+26	27	1	Post Malone: Twelve Carat Tour	Moda Center	United States Of America	US	Portland	97227	One Center Court, Suite 100	45.53118896	-122.66645813	2022-11-04T03:00:00Z
+27	28	1	Post Malone: Twelve Carat Tour	Madison Square Garden	United States Of America	US	New York	10001	7th Ave & 32nd Street	40.7497062	-73.9916006	2022-10-14T00:00:00Z
+28	29	1	Post Malone: Twelve Carat Tour	Vivint Arena	United States Of America	US	Salt Lake City	84101	301 West South Temple	40.767798	-111.901096	2022-11-02T02:00:00Z
+29	30	1	Post Malone: Twelve Carat Tour	Crypto.com Arena	United States Of America	US	Los Angeles	90015	1111 S. Figueroa St	34.043003	-118.267253	2022-11-16T04:00:00Z
+30	31	1	Post Malone: Twelve Carat Tour	Dickies Arena	United States Of America	US	Fort Worth	76107	1911 Montgomery Street	32.741072	-97.368507	2022-10-27T01:00:00Z
+31	32	1	Post Malone: Twelve Carat Tour	Kia Forum	United States Of America	US	Inglewood	90305	3900 W Manchester Blvd.	33.9583	-118.341868	2022-11-14T04:00:00Z
+32	33	1	CLUB Level Seating: Post Malone	Ball Arena	United States Of America	US	Denver	80204	1000 Chopper Circle	39.74724	-105.010166	2022-10-31T02:00:00Z
+33	34	1	Post Malone: Twelve Carat Tour	Scotiabank Arena	Canada	CA	Toronto	M5J 2L2	50 Bay Street, Suite 500	43.6439254	-79.3783234	2022-09-21T00:00:00Z
+34	35	1	Post Malone: Twelve Carat Tour	Scotiabank Arena	Canada	CA	Toronto	M5J 2L2	50 Bay Street, Suite 500	43.6439254	-79.3783234	2022-09-22T00:00:00Z
+35	36	1	Post Malone: Twelve Carat Tour	Rocket Mortgage Fieldhouse	United States Of America	US	Cleveland	44115	One Center Court	41.4967035	-81.6894825	2022-09-28T00:00:00Z
+36	37	1	Post Malone: Twelve Carat Tour	Wells Fargo Center	United States Of America	US	Philadelphia	19145	3601 South Broad St	39.904551	-75.1736273	2022-10-07T00:00:00Z
+37	38	1	Post Malone: Twelve Carat Tour	Toyota Center	United States Of America	US	Houston	77002	1510 Polk Street	29.7520386	-95.3623133	2022-10-26T01:00:00Z
+38	39	1	Post Malone: Twelve Carat Tour	Rogers Arena	Canada	CA	Vancouver	V6B 6G1	800 Griffiths Way	49.2776612	-123.1081074	2022-11-07T04:00:00Z
+39	40	1	Post Malone: Twelve Carat Tour	T-Mobile Arena	United States Of America	US	Las Vegas	89158	3780 S Las Vegas Blvd	36.102807	-115.178313	2022-11-12T04:00:00Z
+40	41	1	Suites: Post Malone: Twelve Carat Tour	Dickies Arena	United States Of America	US	Fort Worth	76107	1911 Montgomery Street	32.741072	-97.368507	2022-10-27T01:00:00Z
+41	42	1	RED HOT CHILI PEPPERS WITH POST MALONE	Mt Smart Stadium	New Zealand	NZ	Auckland	1061	Beasley Avenue	-36.9199905	174.8134003	2023-01-21T04:00:00Z
+42	43	1	RED HOT CHILI PEPPERS WITH POST MALONE	Forsyth Barr Stadium	New Zealand	NZ	Dunedin	9016	130 Anzac Avenue	-45.869296	170.524547	2023-01-26T04:00:00Z
+43	44	1	RED HOT CHILI PEPPERS WITH POST MALONE	Accor Stadium	Australia	AU	Sydney Olympic Park	2127	15 Edwin Flack Avenue	-33.848603	151.061717	2023-02-02T06:00:00Z
+44	45	1	RED HOT CHILI PEPPERS WITH POST MALONE	Marvel Stadium	Australia	AU	Docklands	3008	Harbour Esplanade	-37.816518	144.94554	2023-02-07T06:00:00Z
+45	46	1	RED HOT CHILI PEPPERS WITH POST MALONE	Optus Stadium	Australia	AU	Burswood	6100	333 Victoria Park Drive	-31.951204	115.889132	
+46	47	1	Don Londres Presents: The Post Malone Official After Party	The Depot	United States Of America	US	Salt Lake City	84101	13 North 400 West	40.76963375	-111.90302543	2022-11-02T04:00:00Z
+47	48	1	Don Londres Presents The Post Malone Official After Party	Soundcheck	United States Of America	US	Washington	20005	1420 K St NW	38.902135	-77.032811	2022-10-05T02:30:00Z
+48	49	1	RED HOT CHILI PEPPERS WITH POST MALONE	Optus Stadium	Australia	AU	Burswood	6100	333 Victoria Park Drive	-31.951204	115.889132	
+49	50	1	Don Londres Presents: The Post Malone Official After Party	Fiserv Forum	United States Of America	US	Milwaukee	53203	1111 Vel R. Phillips Ave	43.04228	-87.916896	2022-09-16T04:00:00Z
+50	51	1	Don Londres Presents: The Post Malone Official After Party	The Grand (Boston)	United States Of America	US	Boston	02210	58 Seaport Blvd #300	42.35330048	-71.04747991	2022-09-25T02:30:00Z
+51	52	2	The Weeknd: The After Hours Tour	The SSE Arena, Belfast	Great Britain	GB	Belfast	BT3 9QQ	2 Queens Quay	54.60391677	-5.91356277	2022-10-13T17:00:00Z
+52	53	2	The Weeknd - The After Hours Tour	Ziggo Dome	Netherlands	NL	Amsterdam	1101 AX	De Passage 100	52.31778	4.93636	2022-10-03T18:00:00Z
+53	54	2	The Weeknd - The After Hours Tour	Ziggo Dome	Netherlands	NL	Amsterdam	1101 AX	De Passage 100	52.31778	4.93636	2022-10-04T18:00:00Z
+54	55	2	The Weeknd - The After Hours Tour	Hallenstadion	Switzerland	CH	Zürich	8050	Wallisellenstrasse 45	47.41161	8.55166	2022-11-02T18:00:00Z
+55	56	2	The Weeknd - The After Hours Tour	O2 Arena	Czech Republic	CZ	Praha 9	19000	Českomoravská 2345/17a	50.10479	14.49377	2022-11-05T19:00:00Z
+56	57	2	The Weeknd - After Hours Til Dawn Tour	Rogers Centre	Canada	CA	Toronto	M5V 1J3	1 Blue Jays Way	43.6417384	-79.3917447	2022-09-22T22:30:00Z
+57	58	2	The Weeknd - After Hours Til Dawn Tour	Rogers Centre	Canada	CA	Toronto	M5V 1J3	1 Blue Jays Way	43.6417384	-79.3917447	2022-09-23T22:30:00Z
+58	59	2	The Weeknd: the After the Hours Tour - VIP Packages	The SSE Arena, Belfast	Great Britain	GB	Belfast	BT3 9QQ	2 Queens Quay	54.60391677	-5.91356277	2022-10-13T17:00:00Z
+59	60	2	The Weeknd - The After Hours Tour | Platinum Tickets	Ziggo Dome	Netherlands	NL	Amsterdam	1101 AX	De Passage 100	52.31778	4.93636	2022-10-03T18:00:00Z
+60	61	3	Kid Cudi	Jacobs Pavilion at Nautica	United States Of America	US	Cleveland	44113	2014 Sycamore St.	41.481201	-81.698402	2022-09-17T18:00:00Z
+61	62	3	Kid Cudi	Palais 12 - Paleis 12	Belgium	BE	Brussels	1020	Brussels Expo	50.90095	4.34368	2022-11-17T19:00:00Z
+62	63	3	Kid Cudi - To The Moon	United Center	United States Of America	US	Chicago	60612	1901 W Madison	41.88124412	-87.67427375	2022-09-17T00:00:00Z
+63	64	3	Kid Cudi | VIP Packages	Palais 12 - Paleis 12	Belgium	BE	Brussels	1020	Brussels Expo	50.90095	4.34368	
+64	65	3	Kid Cudi - To The Moon	Rogers Arena	Canada	CA	Vancouver	V6B 6G1	800 Griffiths Way	49.2776612	-123.1081074	2022-09-24T02:00:00Z
+65	66	3	KID CUDI - ENTERGALACTIC DIAMOND VIP		Netherlands	NL	Amsterdam	1101DS	Arena Boulevard 590	52.31236	4.94415	2022-11-13T19:00:00Z
+66	67	3	KID CUDI - ENTERGALACTIC EMERALD VIP		Netherlands	NL	Amsterdam	1101DS	Arena Boulevard 590	52.31236	4.94415	2022-11-13T19:00:00Z
+67	68	3	Kid Cudi - To The Moon World Tour	The O2	Great Britain	GB	London	SE10 0DX	Peninsula Square	51.501581	0.005519	2022-11-15T18:30:00Z
+68	69	3	KID CUDI - TO THE MOON WORLD TOUR		Netherlands	NL	Amsterdam	1101DS	Arena Boulevard 590	52.31236	4.94415	2022-11-13T19:00:00Z
+69	70	4	NIKI: The Nicole Tour	The Wiltern	United States Of America	US	Los Angeles	90010	3790 Wilshire Blvd.	34.06141494	-118.30879207	2022-10-23T02:00:00Z
+70	71	4	NIKI: The Nicole Tour	House of Blues Chicago	United States Of America	US	Chicago	60654	329 N Dearborn St	41.88811537	-87.62931962	2022-10-11T23:00:00Z
+71	72	4	NIKI: The Nicole Tour	Varsity Theater	United States Of America	US	Minneapolis	55414	1308 SE 4th Street	44.980837	-93.237034	2022-09-20T23:00:00Z
+72	73	4	NIKI: The Nicole Tour	House of Blues Chicago	United States Of America	US	Chicago	60654	329 N Dearborn St	41.88811537	-87.62931962	2022-10-12T23:00:00Z
+73	74	4	NIKI: The Nicole Tour	The Van Buren	United States Of America	US	Phoenix	85003	Van Buren	33.451085	-112.079228	2022-10-19T03:00:00Z
+74	75	4	NIKI: The Nicole Tour	The Underground	United States Of America	US	Charlotte	28206	820 Hamilton St	35.240299	-80.845314	2022-10-06T00:00:00Z
+75	76	4	NIKI: The Nicole Tour	The Fillmore Detroit	United States Of America	US	Detroit	48201	2115 Woodward (Next To the Fox)	42.4605914	-83.2129839	2022-09-24T23:00:00Z
+76	77	4	NIKI: The Nicole Tour	The Phoenix Concert Theatre	Canada	CA	Toronto	M4X 1K2	410 Sherbourne Street	43.6644615	-79.3735993	2022-09-23T00:00:00Z
+77	78	4	NIKI: The Nicole Tour	The Phoenix Concert Theatre	Canada	CA	Toronto	M4X 1K2	410 Sherbourne Street	43.6644615	-79.3735993	2022-09-24T00:00:00Z
+78	79	4	NIKI: The Nicole Tour	Howard Theatre	United States Of America	US	Washington D.C.	20001	620 T Street NW	38.9153136	-77.0210937	2022-10-01T00:00:00Z
+79	80	4	NIKI: The Nicole Tour- MOVED TO THE FILLMORE DETROIT!	The Fillmore Detroit	United States Of America	US	Detroit	48201	2115 Woodward (Next To the Fox)	42.4605914	-83.2129839	2022-09-24T23:00:00Z
+80	81	6	Dua Lipa	Palais Theatre	Australia	AU	St Kilda	3183	Lower Esplanade	-37.867211	144.976413	2022-10-30T06:00:00Z
+81	82	6	Dua Lipa Grada	Foro Sol	Mexico	MX	México	08400	Viaducto Piedad y Río Churubusco s/n Cd. Deportiva	19.405199	-99.095618	2022-09-22T01:30:00Z
+82	83	6	Dua Lipa (Gradas)	Estadio Banorte	Mexico	MX	Monterrey	64849	Av. Ricardo Covarrubias No. 34, Col. Tecnológico	24.8333092	-107.4018326	2022-09-24T01:30:00Z
+83	84	6	Dua Lipa (Cancha)	Estadio Banorte	Mexico	MX	Monterrey	64849	Av. Ricardo Covarrubias No. 34, Col. Tecnológico	24.8333092	-107.4018326	2022-09-24T01:30:00Z
+84	85	6	Dua Lipa - Future Nostalgia Tour	Spark Arena	New Zealand	NZ	Auckland	1010	42 - 80 Mahuhu Crescent	-36.847021	174.77687	2022-11-02T06:30:00Z
+85	86	6	Dua Lipa - Future Nostalgia Tour	Spark Arena	New Zealand	NZ	Auckland	1010	42 - 80 Mahuhu Crescent	-36.847021	174.77687	2022-11-03T06:30:00Z
+86	87	6	Dua Lipa General A y B, Discap	Foro Sol	Mexico	MX	México	08400	Viaducto Piedad y Río Churubusco s/n Cd. Deportiva	19.405199	-99.095618	2022-09-22T01:30:00Z
+87	88	8	Arctic Monkeys	Kings Theatre	United States Of America	US	Brooklyn	11226	1027 Flatbush Avenue	40.645943	-73.957275	2022-09-23T00:00:00Z
+88	89	8	Arctic Monkeys	Riverstage 	Australia	AU	Brisbane	4000	59 Gardens Point Road	-27.47894	153.030025	2023-01-11T08:00:00Z
+89	90	8	Arctic Monkeys Tribute	Live Room Cleckheaton	Great Britain	GB	Cleckheaton	BD19 5AA	10a Northgate	53.72412	-1.713715	2022-10-29T18:00:00Z
+90	91	8	The Kopycat Killers, Scam Fender & the Sub-Arctic Monkeys: the Killers	Northumbria University	Great Britain	GB	Newcastle	NE1 8SB	2 Sandyford Road	54.979079	-1.608136	2022-11-19T18:00:00Z
+91	92	8	Heaps Good	Adelaide Showground	Australia	AU	Wayville	5034	Goodwood Road	-34.957844	138.590021	2023-01-06T00:30:00Z
+92	93	8	Heaps Good	Adelaide Showground	Australia	AU	Wayville	5034	Goodwood Road	-34.957844	138.590021	2023-01-06T00:30:00Z
+93	94	8	FALLS BIRREGURRA	Pennyroyal Plains	Australia	AU	Birregurra	3242	265 Telegraph Rd	-38.41424931	143.76920396	
+94	95	8	FALLS FREMANTLE	Fremantle Park	Australia	AU	Fremantle	6160	Ellen Street	-32.05067	115.753386	
+95	96	8	FALLS BYRON BAY	North Byron Parklands	Australia	AU	Yelgun	2483	126 Tweed Valley Way	-28.481503	153.51529	
+96	97	8	FALLS BYRON BAY	North Byron Parklands	Australia	AU	Yelgun	2483	126 Tweed Valley Way	-28.481503	153.51529	2022-12-30T22:00:00Z
+97	98	8	Life is Beautiful Festival	Downtown Las Vegas	United States Of America	US	Las Vegas	89101	Fremont Street	36.161105	-115.121733	
+98	99	8	Primavera Sound LA	Los Angeles State Historic Park	United States Of America	US	Los Angeles	90012	1245 N Spring St	34.0658419	-118.234441	
+99	100	9	Ed Sheeran + - = ÷ x Tour	Eden Park	New Zealand	NZ	Auckland	1024	Reimers Ave	-36.8761749	174.7436981	
+100	101	9	Ed Sheeran + - = ÷ x Tour	Eden Park	New Zealand	NZ	Auckland	1024	Reimers Ave	-36.8761749	174.7436981	
+101	102	9	Ed Sheeran + - = ÷ x Tour	Optus Stadium	Australia	AU	Burswood	6100	333 Victoria Park Drive	-31.951204	115.889132	
+102	103	9	2022 Formula 1 Aramco United States Grand Prix - Saturday Only	Circuit of The Americas	United States Of America	US	Austin	78617	9201 Circuit of The Americas Blvd	30.13526827	-97.63566001	2022-10-22T13:00:00Z
+103	104	10	THE INCITERS w/ Lou Lou and Her Spizy Boyz plus DJ Mini	Moe's Alley	United States Of America	US	Santa Cruz	95065	1535 Commercial Way	36.9875105	-121.9828327	2022-10-29T04:00:00Z
+104	105	10	Xponential Music Festival (3-Day Go Everywhere Pass)	Freedom Mortgage Pavilion (formerly BB&T Pavilion)	United States Of America	US	Camden	08103	1 Harbour Blvd	39.940917	-75.12875	
