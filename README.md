@@ -13,7 +13,7 @@
 3. Visualized the results as a dashboard using [Tableau](https://public.tableau.com/views/ArtistsDiscographyandEventsDashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
  
- ![alt text](https://github.com/MSlobody/Artists_SQL/blob/main/Data/Dashboard_Overview.PNG)
+ ![alt text](https://github.com/MSlobody/Favourite_Artists/blob/main/Data/Dashboard_Overview.PNG)
 
 ## Resources
 Python Version: 3.9.7\
@@ -40,7 +40,7 @@ Note in this project I consider an Extended Play (EP) and live sessions designat
 
 - Kanye West has the richest discography with 12 albums and 185 tracks. Surprisingly, Dua Lipa with only 3 albums has the fourth highest number of followers and popularity which indicates how commercially successful her discography is. 
 
- ![alt text](https://github.com/MSlobody/Artists_SQL/blob/main/Data/Summary_table.PNG)
+ ![alt text](https://github.com/MSlobody/Favourite_Artists/blob/main/Data/Summary_table.PNG)
 
 #### Average Time Between an Album Release:
 
@@ -49,7 +49,7 @@ Amongst my top 10 artists I was curious how frequently each artist releases a ne
 -	On average it takes 904 days for Arctic Monkeys to release a new album, which is the longest time of any artist in my list. This is partly due to the long break they took from the release of AM to Tranquility Base Hotel & Casino of nearly 5 years. 
 -	The Weeknd, H.E.R. and Ed Sheeran on average require 438 days, 436 days, and 411 days, respectively to release a new album.  With the most followers and highest popularity, the Weeknd and Ed Sheeran produce new content for their fans at an incredibly fast pace. 
 
- ![alt text](https://github.com/MSlobody/Artists_SQL/blob/main/Data/Avg_time_between_albums.PNG)
+ ![alt text](https://github.com/MSlobody/Favourite_Artists/blob/main/Data/Avg_time_between_albums.PNG)
 
  #### Artists Album Popularity:
 I found that despite the bias towards more recent plays by the popularity algorithm, the most popular albums are not always the most recent. A few examples:
@@ -57,12 +57,12 @@ I found that despite the bias towards more recent plays by the popularity algori
 -	The album “I Used To Know Her” by H.E.R. released in 2019 is the most popular in her discography, beating the more recent "Back of My Mind".
 -	Kanye West’s “Graduation” from 2007 is still his most popular album, despite 8 new albums being released since then. 
 
-![alt text](https://github.com/MSlobody/Artists_SQL/blob/main/Data/Album_popularity.PNG)
+![alt text](https://github.com/MSlobody/Favourite_Artists/blob/main/Data/Album_popularity.PNG)
 
 
 #### Artist Performances Across the Globe:
 If many artists are performing in the same city this would encourage me to travel to attend their shows. From the Ticketmaster data it appears that Toronto and Amsterdam have the most events with 6 upcoming shows. Post Malone, Kid Cudi, The Weeknd and NIKI will all be performing in my hometown of Toronto. Other cities such as Brisbane in Australia only have one event, a performance by the Arctic Monkeys on the 11th of January 2023. As a result, I will likely stay in Toronto to attend my favourite artist performances!
 
- ![alt text](https://github.com/MSlobody/Artists_SQL/blob/main/Data/Artist_performances.PNG)
+ ![alt text](https://github.com/MSlobody/Favourite_Artists/blob/main/Data/Artist_performances.PNG)
  
 
